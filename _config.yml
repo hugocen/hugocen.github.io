@@ -24,6 +24,8 @@ github_username: harry0731
 minimal_mistakes_skin: default
 search: true
 
+logo: "/assets/images/logo.png"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
