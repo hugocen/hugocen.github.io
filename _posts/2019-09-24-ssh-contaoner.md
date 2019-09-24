@@ -12,7 +12,7 @@ header:
 entrypoint的用意為 每當container開始運行時重啟ssh服務
 <br>
 範例:
-```Dockerfile
+```dockerfile
 FROM ubuntu:18.04
 
 RUN apt-get update && \
@@ -33,29 +33,29 @@ ENTRYPOINT service ssh restart && bash
 <br>
 參數為 -p 外部port:內部port
 
-```shell
+```bash
 docker run -p 1234:22 helloworld:latest
 ```
 
 
 運行container之後 要先更改密碼
-```shell
+```bash
 passwd
 ```
 再來要更改ssh的設定
 <br>
 ssh的設定檔在Ubuntu系統的預設位置為:
 <br>
-```shell
+```bash
 /etc/ssh/sshd_config
 ```
 把PasswordAuthentication的註解拿掉 並更改設定為yes
-```vim
+```
 ...
 PasswordAuthentication yes
 ...
 ```
 最後重啟ssh服務就好囉
-```shell
+```bash
 service ssh restart
 ```
