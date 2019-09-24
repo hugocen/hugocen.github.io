@@ -24,7 +24,7 @@ github_username: harry0731
 minimal_mistakes_skin: default
 search: true
 
-logo: "/assets/images/logo.png"
+logo: "/assets/images/android-chrome-192x192.png"
 
 # Build settings
 markdown: kramdown
