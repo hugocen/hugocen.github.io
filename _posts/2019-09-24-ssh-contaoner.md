@@ -22,8 +22,8 @@ RUN apt-get update && \
         wget \
         git \
         gcc \
-		ssh \
-	    vim && \
+        ssh \
+        vim && \
     rm -rf /var/lib/apt/lists/*
 
 ENTRYPOINT service ssh restart && bash
