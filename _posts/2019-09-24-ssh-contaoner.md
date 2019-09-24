@@ -1,5 +1,12 @@
 ---
 title: "如何用 ssh 連線到 Docker Container"
+date: 2019-09-24T15:34:30-04:00
+categories:
+  - docker
+tags:
+  - docker
+  - ssh
+  - linux
 header:
   image: /assets/images/docker.png
 ---
