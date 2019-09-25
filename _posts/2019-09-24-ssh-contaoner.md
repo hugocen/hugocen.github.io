@@ -56,8 +56,10 @@ ssh的設定檔在Ubuntu系統的預設位置為:
 ```bash
 /etc/ssh/sshd_config
 ```
-把PasswordAuthentication的註解拿掉 並更改設定為yes
-```
+把PasswordAuthentication以及PermitRootLogin的註解拿掉 並更改設定為yes
+``` xml
+...
+PermitRootLogin yes
 ...
 PasswordAuthentication yes
 ...
