@@ -13,10 +13,12 @@ header:
 ---
 # 如何用 Github Pages 建立免費的個人Blog
 
-## [Github pages](https://pages.github.com/)
+## Github pages
+### [Github pages](https://pages.github.com/)
 Github 除了提供Git Server的功能之外  
 也提供了免費的靜態網站伺服器  
-***
+
+
 ## 建立 Github Pages
 建立Github Pages的方法很簡單  
 在Github新建一個repository 名字為  
@@ -30,7 +32,8 @@ Github 除了提供Git Server的功能之外
 不過也可以藉由更改repository名稱的方式做修正
 
 當repositor建好之後 把網頁丟上去就結束啦(誤)
-***
+
+
 ## 使用 Jekyll 產生靜態網頁
 ### [Jekyll](https://jekyllrb.com/)
 Github Pages 原生支援 Jekyll  
@@ -38,7 +41,8 @@ Jekyll 可以使用 Markdown 語法來撰寫網頁 也有很大的客製化空�
 Jekyll 也提供了很多不同的主題以及套件可以安裝  
 這裡就不一一介紹了  
 直接拉樣板來用!
-***
+
+
 ## 套用 Minimal Mistakes 的 Jekyll 主題
 [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)  
 Minimal Mistakes是專門為了個人網站以及部落格用途的 Jekyll 主題  
