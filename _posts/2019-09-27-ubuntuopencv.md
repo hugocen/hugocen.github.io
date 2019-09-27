@@ -9,6 +9,7 @@ tags:
   - opencv
   - ubuntu
   - computer vision
+  - python
 ---
 
 在Ubuntu 18.04 中安裝 OpenCV 可參考以下指令  
