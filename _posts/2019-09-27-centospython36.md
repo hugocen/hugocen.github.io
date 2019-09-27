@@ -7,6 +7,7 @@ tags:
   - linux
   - python
   - yum
+  - centos
 ---
 
 在Centos 7下 預設的Python 3 安裝版本為3.5  
