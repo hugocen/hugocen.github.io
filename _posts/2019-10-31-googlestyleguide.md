@@ -2,7 +2,7 @@
 title: "Google Python Style Guide"
 date: 2019-10-31T11:34:30-04:00
 categories:
-  - Pyrhon
+  - Python
 tags:
   - python
 ---
