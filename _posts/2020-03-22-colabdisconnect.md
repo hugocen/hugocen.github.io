@@ -8,6 +8,8 @@ tags:
   - machine learning
   - javascript
   - python
+header:
+  image: /assets/images/colablogo.jpg
 ---
 ## 什麼是Colab?  
 Colab是Google所提供的一項很棒的資源  
