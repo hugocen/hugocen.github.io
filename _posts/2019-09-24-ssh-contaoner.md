@@ -26,7 +26,7 @@ Docker是一個很方面的工具
 首先在Dockerfile中寫好ssh的安裝指令  
 並且將entrypoint設定好  
 entrypoint的用意為 每當container開始運行時重啟ssh服務  
-範例:
+dockerfile範例:
 ```dockerfile
 FROM ubuntu:18.04
 
