@@ -5,7 +5,7 @@ categories:
   - Web
 tags:
   - web
-  - javascripy
+  - javascript
   - threejs
 ---
   
