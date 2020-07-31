@@ -10,6 +10,7 @@ tags:
   - pages
 header:
   image: /assets/images/githubpages.png
+  overlay_filter: 0.5
 ---
 <!-- # 如何用 Github Pages 建立免費的個人Blog -->
 

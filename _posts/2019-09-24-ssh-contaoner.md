@@ -9,6 +9,7 @@ tags:
   - linux
 header:
   image: /assets/images/docker.png
+  overlay_filter: 0.5
 ---
 <!-- # 如何用 ssh 連線到 Docker Container -->
 

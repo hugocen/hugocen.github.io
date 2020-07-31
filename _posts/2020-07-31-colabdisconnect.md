@@ -10,6 +10,7 @@ tags:
   - python
 header:
   image: /assets/images/colablogo.jpg
+  overlay_filter: 0.5
 ---
 ## 什麼是Colab?  
 Colab是Google所提供的一項很棒的資源  
