@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hugocen.github.io./sitemap.xml
