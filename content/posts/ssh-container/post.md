@@ -35,9 +35,6 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
-# How to assess docker containers via SSH
-
 ## Overview
 
 This article will show you how to assess docker containers via SSH.
