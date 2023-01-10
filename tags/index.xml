@@ -9,22 +9,40 @@
       <link>https://hugocen.github.io/assets/Hugo-bw.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 10 Jan 2023 00:31:03 +0800</lastBuildDate><atom:link href="https://hugocen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://hugocen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>docker</title>
-      <link>https://hugocen.github.io/tags/docker/</link>
-      <pubDate>Tue, 10 Jan 2023 00:31:03 +0800</pubDate>
+      <title>Alcohol</title>
+      <link>https://hugocen.github.io/tags/alcohol/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://hugocen.github.io/tags/docker/</guid>
+      <guid>https://hugocen.github.io/tags/alcohol/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ssh</title>
-      <link>https://hugocen.github.io/tags/ssh/</link>
-      <pubDate>Tue, 10 Jan 2023 00:31:03 +0800</pubDate>
+      <title>Evolution</title>
+      <link>https://hugocen.github.io/tags/evolution/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://hugocen.github.io/tags/ssh/</guid>
+      <guid>https://hugocen.github.io/tags/evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humans</title>
+      <link>https://hugocen.github.io/tags/humans/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://hugocen.github.io/tags/humans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mumbo Jumbo</title>
+      <link>https://hugocen.github.io/tags/mumbo-jumbo/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://hugocen.github.io/tags/mumbo-jumbo/</guid>
       <description></description>
     </item>
     
